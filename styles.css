@@ -34,3 +34,15 @@
 .hero2-text{
  width: 800px;
 }
+.hero3{
+    height: 780px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FBF9F3;
+}
+.hero3-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
