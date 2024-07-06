@@ -5,9 +5,6 @@
 }
 .navbar{
     background-color: black;
-    position: sticky;
-    top: 0;
-    z-index: 10;
 }
 .nav-link{
     color: white;
@@ -27,4 +24,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.hero2{
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero2-text{
+ width: 800px;
 }
