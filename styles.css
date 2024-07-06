@@ -20,4 +20,11 @@
 .nav-link:hover{
     color: lightgray;
       }
-
+.hero1 {
+    height: 960px;
+    background:linear-gradient(rgba(14,15,21,0.55), rgba(14,15,21,0.55)), url('images/hero-bg40.jpg');
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
