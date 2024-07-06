@@ -78,3 +78,21 @@
 a{
     text-decoration: none;
 }
+.heading h2{
+    font-size: 40px;
+    font-weight: 640;
+    margin-bottom: 50px;
+}
+.rest-col{
+    width: 290px;
+}
+.hero5 {
+    height: 600px;
+    background-color: #fbf9f3;
+}
+
+.rest-col h3{
+    margin: 20px 0px;
+    font-size: 15px;
+    font-weight: 600;
+}
